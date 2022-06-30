@@ -1,3 +1,7 @@
+#Introduction to Object Oriented Programming with Python
+#Follow along: https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.languages.python-apps
+
+
 # Rock, paper, scissors is a game played by two participants. 
 # The game consists of rounds. 
 # In each round, a participant chooses a symbol from rock, paper, or scissors, and the other participant does the same. 
